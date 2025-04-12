@@ -1,0 +1,12 @@
+torch
+torchscale
+sentencepiece # build-essential cmake python3-dev
+opencv-python
+Pillow
+numpy
+transformers
+hydra-core
+diffusers
+accelerate
+gradio
+spaces
