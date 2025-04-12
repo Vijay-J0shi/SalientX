@@ -2,6 +2,10 @@
 
 Based on the prompt change background of image but the position of salient remain unchanged.
 
+<p>
+<img width="100%" src="./assets/deer_example.png"></a>
+</p>
+
 ## Concepts
 
 - Inputs: Image, salient and background prompt
