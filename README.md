@@ -13,7 +13,6 @@ Based on the prompt change background of image but the position of salient remai
 - Send the resize image to `SAM` based model
 - Send the prompt image and result of `SAM` based model to `Stable Diffusion` + `ControlNet` model
 
-
 ## Acknowledgement
 
 ### ⚠️ Note on EVF-SAM Usage
