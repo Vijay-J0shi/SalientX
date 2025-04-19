@@ -5,8 +5,8 @@ from diffusers import DiffusionPipeline
 import gc
 import os
 
-# Optional: Helps with CUDA memory fragmentation
-os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+# Helps with CUDA memory fragmentation
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:128"
 
 @torch.no_grad()
 def generate_background_image(
