@@ -7,7 +7,7 @@ Based on the prompt change background of image but the position of salient remai
 </p>
 
 **Project Report**
-[FInal Report Major 2.docx](https://github.com/user-attachments/files/20644089/FInal.Report.Major.2.docx)
+https://drive.google.com/file/d/1O8fS0sq1k0Hs8C8_SQ9Q83oCj2u57EZA/view?usp=drive_link
 
 ## Concepts
 
