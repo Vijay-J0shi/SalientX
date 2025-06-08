@@ -6,6 +6,9 @@ Based on the prompt change background of image but the position of salient remai
 <img width="100%" src="./assets/deer_example.png"></a>
 </p>
 
+**Project Report**
+[FInal Report Major 2.docx](https://github.com/user-attachments/files/20644089/FInal.Report.Major.2.docx)
+
 ## Concepts
 
 - Inputs: Image, salient and background prompt
